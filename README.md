@@ -23,9 +23,6 @@ Se você quiser contribuir para este projeto, siga estas etapas:
 4. Faça push para a branch (`git push origin feature/nova-feature`).
 5. Abra uma solicitação de pull request.
 
-## Exemplo de Uso
-![Exemplo de Uso](screenshot.png)
-
 ## Tecnologias Utilizadas
 - HTML
 - CSS
