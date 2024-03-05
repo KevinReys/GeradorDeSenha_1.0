@@ -1,32 +1,32 @@
-# Gerador de Senha
-Este é um simples gerador de senha desenvolvido em HTML, CSS e JavaScript. 
-Ele gera senhas aleatórias com base nas preferências do usuário e exibe a senha gerada em um campo de entrada de texto.
+# Password Generator
+This is a simple password generator developed in HTML, CSS, and JavaScript. 
+It generates random passwords based on user preferences and displays the generated password in a text input field.
 
-## Funcionalidades
-- Gera senhas aleatórias com base nas preferências do usuário.
-- Permite especificar o comprimento da senha desejada.
-- Permite escolher quais tipos de caracteres incluir na senha (letras maiúsculas, letras minúsculas, números e caracteres especiais).
-- Exibe a senha gerada em um campo de entrada de texto para que o usuário possa copiá-la facilmente.
+## Features
+- Generates random passwords based on user preferences.
+- Allows specifying the desired password length.
+- Allows choosing which types of characters to include in the password (uppercase letters, lowercase letters, numbers, and special characters).
+- Displays the generated password in a text input field for easy copying.
 
-## Como Usar
-1. Abra o arquivo `index.html` em um navegador da web.
-2. Escolha as preferências para a senha desejada (comprimento e tipos de caracteres).
-3. Clique no botão "Gerar Senha".
-4. A senha gerada será exibida no campo de texto. Você pode copiá-la e utilizá-la conforme necessário.
+## How to Use
+1. Open the `index.html` file in a web browser.
+2. Choose the preferences for the desired password (length and types of characters).
+3. Click the "Generate Password" button.
+4. The generated password will be displayed in the text input field. You can copy it and use it as needed.
 
-## Como Contribuir
-Se você quiser contribuir para este projeto, siga estas etapas:
+## How to Contribute
+If you want to contribute to this project, follow these steps:
 
-1. Faça um fork do projeto.
-2. Crie uma nova branch (`git checkout -b feature/nova-feature`).
-3. Faça commit de suas alterações (`git commit -am 'Adiciona nova feature'`).
-4. Faça push para a branch (`git push origin feature/nova-feature`).
-5. Abra uma solicitação de pull request.
+1. Fork the project.
+2. Create a new branch (`git checkout -b feature/new-feature`).
+3. Commit your changes (`git commit -am 'Add new feature'`).
+4. Push to the branch (`git push origin feature/new-feature`).
+5. Open a pull request.
 
-## Tecnologias Utilizadas
+## Technologies Used
 - HTML
 - CSS
 - JavaScript
 
-## Autor
+## Author
 Kevin Reys
